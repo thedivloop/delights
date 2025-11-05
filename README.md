@@ -41,9 +41,10 @@ Visualize your end result. What is it built with? What can it do? Make sure that
 
 Make a timeline for yourself and avoid the temptation to build things that aren’t required. Setting firm boundaries and deadlines will keep you on track and prevent scope creep.
 
-#### Scope definition
+#### Scope and method definitions
 General rules include:
 1. Only functions and functionalities described in this file will be implemented
 2. The homepage of the public facing app is a login screen.
-3. The admin access has the proper styling but is at a different address than /admin.
-4. 
+3. The admin access has the proper styling but is at a the address /manage-my-restaurant-991.
+4. No code is added unless it is used immediately for the purpose of implementing a requirement.
+5. The features development tracking will be done through github issues.
